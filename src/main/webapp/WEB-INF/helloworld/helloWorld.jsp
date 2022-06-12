@@ -6,7 +6,7 @@
         <title>Java EE 8 Application</title>
     </head>
     <body>
-        <h1>Index</h1>
-        Click <a href="helloworld">here</a> to get a greeting from the 'Hello World!' servlet.
+        <h1>Hello World!</h1>
+        <a href="index.jsp">Back</a>
     </body>
 </html>
